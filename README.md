@@ -1,2 +1,3 @@
 # Device-Management
- Website for managing devices within the school
+ Website for managing iPad devices within the school, written in primarily PHP.
+ 
